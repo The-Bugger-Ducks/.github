@@ -1,6 +1,6 @@
 ## Equipe The Bugger Ducks
 
-Time formado para realização dos APIs (Aprendizagem por Projetos Integradores) na FATEC Profº Jessen Vidal em São José dos Campos - SP.
+Time formado para realização dos APIs (Aprendizagem por Projetos Integradores) na FATEC Profº Jessen Vidal (São José dos Campos, SP).
 
 <div align="center">
 
